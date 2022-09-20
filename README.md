@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -14,14 +14,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-
-
 ## Overview
 
 ### Screenshot
 
 ![Desktop](/images/desktop%20screen.png)
-![Mobile](/images/mobile%20screen%20.jpg)
+![Mobile](/images/mobile%20screen.png)
 
 ### Links
 
@@ -49,13 +47,14 @@ On this project, i understood more on using CSS variables to increase work speed
   --pry-font-family: "Outfit", sans-serif;
 }
 ```
+
 ### Continued development
 
 I would love to imporve on my knowledge of media queries; especially writing less media query codes.
 
 ### Useful resources
 
-- [How to Set Width Ranges for Your CSS Media Queries by FreeCodeCamp](https://www.freecodecamp.org/news/media-queries-width-ranges/) - This helped me to understand better how use width rsnges in media queries.
+- [How to Set Width Ranges for Your CSS Media Queries by FreeCodeCamp](https://www.freecodecamp.org/news/media-queries-width-ranges/) - This helped me to understand better how use width ranges in media queries.
 - [Git Cheat Sheet by SamCollett](https://cheatography.com/samcollett/cheat-sheets/git/) - This contains important information on using git.
 
 ## Author
