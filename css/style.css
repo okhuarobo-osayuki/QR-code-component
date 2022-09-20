@@ -19,7 +19,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: auto;
+  height: 670px;
 }
 
 @media screen and (max-width: 375px){
@@ -31,8 +31,6 @@ body {
     background-color: var(--white-background-color);
     max-width: 300px;
     padding: 17px 15px;
-    position: relative;
-    top: 70px;
     border-radius: 20px;
     height: 500px;
   }
@@ -80,8 +78,6 @@ body {
     background-color: var(--white-background-color);
     max-width: 300px;
     padding: 17px 15px;
-    position: relative;
-    top: 90px;
     border-radius: 20px;
     height: 500px;
   }
@@ -130,7 +126,7 @@ body {
     max-width: 300px;
     padding: 17px 15px;
     position: relative;
-    top: 70px;
+    top: 30px;
     border-radius: 20px;
     height: 500px;
   }
