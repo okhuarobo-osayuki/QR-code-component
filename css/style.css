@@ -63,6 +63,7 @@ body {
 
   .text-para {
     font-size: var(--paragraph-font);
+    color: hsl(220, 15%, 55%);
     font-weight: 400;
     width: 250px;
     margin-left: 10px;
@@ -111,6 +112,7 @@ body {
 
   .text-para {
     font-size: var(--paragraph-font);
+    color: hsl(220, 15%, 55%);
     font-weight: 400;
     width: 250px;
     margin-left: 10px;
