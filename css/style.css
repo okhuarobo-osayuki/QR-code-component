@@ -17,9 +17,25 @@ body {
   font-family: var(--pry-font-family);
   background-color: var(--grey-background-color);
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   height: 670px;
+}
+
+.attribution{
+    font-size: 11px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.attribution a{
+    text-decoration: none;
+    color: hsl(228, 45%, 44%);
+}
+
+.attribution a:hover{
+    text-decoration: underline;
 }
 
 @media screen and (max-width: 375px){
@@ -125,8 +141,7 @@ body {
     background-color: var(--white-background-color);
     max-width: 300px;
     padding: 17px 15px;
-    position: relative;
-    top: 30px;
+    margin-top: 50px;
     border-radius: 20px;
     height: 500px;
   }
