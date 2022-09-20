@@ -21,6 +21,55 @@ body {
   justify-content: center;
 }
 
+@media screen and (max-width: 375px){
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--white-background-color);
+    max-width: 300px;
+    padding: 17px 15px;
+    position: relative;
+    top: 120px;
+    border-radius: 20px;
+    height: 500px;
+  }
+
+  .QR-bar {
+    margin-bottom: 55px;
+  }
+
+  img {
+    max-width: 300px;
+    width: 100%;
+    border-radius: 10px;
+    position: relative;
+  }
+
+  .text {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    position: relative;
+    bottom: 30px;
+  }
+
+  .text-heading {
+    font-size: 22px;
+    font-weight: 700;
+  }
+
+  .text-para {
+    font-size: var(--paragraph-font);
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    width: 250px;
+    margin-left: 10px;
+  }
+}
+
 @media screen and (max-width: 1440px) and (min-width: 375px) {
   .container {
     display: flex;
