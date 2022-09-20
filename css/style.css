@@ -23,22 +23,22 @@ body {
   height: 670px;
 }
 
-.attribution{
-    font-size: 11px;
-    text-align: center;
-    margin-top: 10px;
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 10px;
 }
 
-.attribution a{
-    text-decoration: none;
-    color: hsl(228, 45%, 44%);
+.attribution a {
+  text-decoration: none;
+  color: hsl(228, 45%, 44%);
 }
 
-.attribution a:hover{
-    text-decoration: underline;
+.attribution a:hover {
+  text-decoration: underline;
 }
 
-@media screen and (max-width: 375px){
+@media screen and (max-width: 375px) {
   .container {
     display: flex;
     flex-direction: column;
