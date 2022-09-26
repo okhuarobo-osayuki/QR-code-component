@@ -23,18 +23,18 @@ body {
   height: 670px;
 }
 
-.attribution {
-  font-size: 11px;
+h2{
+  font-size: 0.8rem;
   text-align: center;
   margin-top: 10px;
-}
-
-.attribution a {
-  text-decoration: none;
   color: hsl(228, 45%, 44%);
 }
 
-.attribution a:hover {
+a {
+  text-decoration: none;
+}
+
+a:hover {
   text-decoration: underline;
 }
 
@@ -46,33 +46,22 @@ body {
     justify-content: center;
     background-color: var(--white-background-color);
     max-width: 300px;
-    padding: 17px 15px;
-    border-radius: 20px;
+    padding:  1rem;
+    border-radius: 0.9rem;
     height: 500px;
-  }
-
-  .QR-bar {
-    margin-bottom: 55px;
+    text-align: center;
+    gap: 1rem;
   }
 
   img {
     max-width: 300px;
     width: 100%;
-    border-radius: 10px;
-    position: relative;
-  }
-
-  .text {
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    position: relative;
-    bottom: 30px;
+    height: 100%;
+    border-radius: 0.9rem;
   }
 
   .text-heading {
-    font-size: 22px;
+    font-size: 1.38rem;
     font-weight: 700;
   }
 
@@ -80,8 +69,7 @@ body {
     font-size: var(--paragraph-font);
     color: hsl(220, 15%, 55%);
     font-weight: 400;
-    width: 250px;
-    margin-left: 10px;
+    margin-right: .4rem;
   }
 }
 
@@ -93,33 +81,22 @@ body {
     justify-content: center;
     background-color: var(--white-background-color);
     max-width: 300px;
-    padding: 17px 15px;
-    border-radius: 20px;
+    padding:  1rem;
+    border-radius: 0.9rem;
     height: 500px;
-  }
-
-  .QR-bar {
-    margin-bottom: 55px;
+    text-align: center;
+    gap: 1rem;
   }
 
   img {
     max-width: 300px;
     width: 100%;
-    border-radius: 10px;
-    position: relative;
-  }
-
-  .text {
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    position: relative;
-    bottom: 30px;
+    height: 100%;
+    border-radius: 0.9rem;
   }
 
   .text-heading {
-    font-size: 22px;
+    font-size: 1.38rem;
     font-weight: 700;
   }
 
@@ -127,8 +104,7 @@ body {
     font-size: var(--paragraph-font);
     color: hsl(220, 15%, 55%);
     font-weight: 400;
-    width: 250px;
-    margin-left: 10px;
+    margin-right: .4rem;
   }
 }
 
@@ -140,34 +116,23 @@ body {
     justify-content: center;
     background-color: var(--white-background-color);
     max-width: 300px;
-    padding: 17px 15px;
-    margin-top: 50px;
-    border-radius: 20px;
+    padding:  1rem;
+    border-radius: 0.9rem;
     height: 500px;
-  }
-
-  .QR-bar {
-    margin-bottom: 55px;
+    text-align: center;
+    gap: 1rem;
+    margin-top: 2rem;
   }
 
   img {
     max-width: 300px;
     width: 100%;
-    border-radius: 10px;
-    position: relative;
-  }
-
-  .text {
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    position: relative;
-    bottom: 30px;
+    height: 100%;
+    border-radius: 0.9rem;
   }
 
   .text-heading {
-    font-size: 22px;
+    font-size: 1.38rem;
     font-weight: 700;
   }
 
@@ -175,7 +140,6 @@ body {
     font-size: var(--paragraph-font);
     color: hsl(220, 15%, 55%);
     font-weight: 400;
-    width: 250px;
-    margin-left: 10px;
+    margin-right: .4rem;
   }
 }
