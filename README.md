@@ -62,3 +62,4 @@ I would love to imporve on my knowledge of media queries; especially writing les
 - Website - [Osayuki](https://github.com/okhuarobo-osayuki)
 - Frontend Mentor - [@okhuarobo-osayuki](https://www.frontendmentor.io/profile/okhuarobo-osayuki)
 - Twitter - [@osayuki__](https://twitter.com/osayuki__)
+- LinkedIn - [@osayukiokhuarobo](https://www.linkedin.com/in/osayukiokhuarobo/)
